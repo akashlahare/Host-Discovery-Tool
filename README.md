@@ -8,3 +8,4 @@ A Python tool that scans a range of IP addresses by sending ICMP echo requests. 
 Multithreading: Enables faster scanning by pinging multiple IPs concurrently.
 Custom IP Range: Allows the user to specify a start and end IP address for scanning.
 Response Time: Shows the time taken to receive a response from each reachable IP.
+

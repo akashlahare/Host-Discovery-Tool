@@ -10,5 +10,4 @@ Custom IP Range: Allows the user to specify a start and end IP address for scann
 Response Time: Shows the time taken to receive a response from each reachable IP.
 
 
-![Ping Scanner Tool](https://github.com/akashlahare/Ping-Scanner-Tool/blob/main/Ping%20Scanner.png?raw=true)
-
+![Host Discovery Tool](https://github.com/akashlahare/Ping-Scanner-Tool/blob/main/Ping%20Scanner.png?raw=true) 

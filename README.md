@@ -29,8 +29,11 @@ The tool uses Python’s `subprocess`, `threading`, and `ipaddress` modules to:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author : Akash Lahare
 
-**Akash Lahare**  
-🔗 [LinkedIn](https://www.linkedin.com/in/akashlahare/)  
-📂 [More Projects](https://github.com/akashlahare)
+### 🔗 [LinkedIn](https://www.linkedin.com/in/akashlahare/)  
+### 📂 [More Projects](https://github.com/akashlahare)
+---
+
+## 📄 License
+ 🔗 [MIT License](https://choosealicense.com/licenses/mit/)

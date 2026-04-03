@@ -6,7 +6,6 @@ by **l33tkid** | For authorized use only
 <p align="center">
   <img src="https://raw.githubusercontent.com/akashlahare/Host-Discovery-Tool/main/image.png" width="700">
 </p>
-\---
 
 ## Requirements
 
